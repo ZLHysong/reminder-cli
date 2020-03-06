@@ -4,8 +4,7 @@ This is a SUPER simple CLI app, written in C++, to send you reminders at a given
 
 Currently, this app is WSL only. Hopefully in the future I can extend it to work on Windows, Mac, and Red Hat.
 
-![CLI](1.png "CLI App")
-![Toast Notifiation](2.png "Toast Notification")
+![Example](workingGIF.gif "Toast Notification")
 
 ## Prerequisites
 
@@ -34,3 +33,4 @@ The app will then run and you can send it to the background with `CTRL-Z` then `
 - Start running in background after initial questions, or, better yet, start app with parameters and immediately move to background.
 - Create Gnome version for working on Red Hat
   - This is a personal goal since I am also learning RHEL for my certification
+- Come up with a better GIF for above
