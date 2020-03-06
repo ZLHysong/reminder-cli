@@ -1,7 +1,8 @@
 # Reminder CLI App
 
 This is a SUPER simple CLI app, written in C++, to send you reminders at a given intervals.
-In theory, it should run on WSL and Windows, but has so far only been tested in WSL.
+
+Currently, this app is WSL only. Hopefully in the future I can extend it to work on Windows, Mac, and Red Hat.
 
 ![CLI](1.png "CLI App")
 ![Toast Notifiation](2.png "Toast Notification")
