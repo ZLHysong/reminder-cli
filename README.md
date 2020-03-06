@@ -14,7 +14,7 @@ In theory, it should run on WSL and Windows, but has so far only been tested in 
 git clone https://github.com/zlhysong/reminder-cli.git
 cd reminder-cli
 g++ reminder.cpp -o reminder-cli
-mv reminder /usr/bin/reminder-cli
+sudo mv reminder-cli /usr/bin/reminder-cli
 ```
 
 ## Usage
