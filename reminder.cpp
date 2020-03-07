@@ -30,7 +30,7 @@ int main() {
 	while(true) {
 		count++;
 		for (int i=timer; i>0; --i) {
-			std::this_thread::sleep_for (std::chrono::seconds(60)); //test comment
+			std::this_thread::sleep_for (std::chrono::seconds(60));
 		}
 		cout << "Toast Sent";
 		system(str.c_str());
