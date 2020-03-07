@@ -2,7 +2,7 @@
 
 This is a SUPER simple CLI app, written in C++, to send you reminders at a given intervals.
 
-Currently, this app is WSL only. Hopefully in the future I can extend it to work on Windows, Mac, and Red Hat.
+Currently, this app is WSL and Windows only. Hopefully in the future I can extend it to work on Mac and Red Hat.
 
 ![Example](workingGIF.gif "Toast Notification")
 
